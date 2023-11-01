@@ -1,18 +1,12 @@
 #---------------------------------------------------------------------------#
 
-# Python script to delete and create a list of deleted external users
-
-# that were not active since May/2023 & NEVERR LOGGED IN
-
-# Version 0.2 (LTS compatible)
-
 # Author: Mohammed Al Ashtal
 
 #---------------------------------------------------------------------------#
 
  
 
-# Libraries or Dependencies
+# Libraries
 
 import sys
 
